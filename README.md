@@ -1,0 +1,2 @@
+# MyPicturesResource
+Images files.
